@@ -1,6 +1,12 @@
-what is class : A class is the group of property and function,
+ what is class : A class is the group of property and function,
  what is class : A class is the tamplet of the object
  what is class : A class is the logical constructor
 
  what is object :- an object is instance of class
  what is the object : A object is the physical reality then occoupy the some space and memory
+ what is doot operator use :-
+
+ All class object in java must be allocated in dynamically memoey
+
+Student student  =  new Student();
+-- compile time --   -- run time allocate memory --
