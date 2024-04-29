@@ -21,3 +21,10 @@ The constructor does not return any value
 -------------- This key word-----------
 This keyword in Java
 There can be a lot of usage of Java this keyword. In Java, this is a reference variable that refers to the current object.
+
+student one  = new Student();
+Student two = one;
+
+--- final kaeyword-----
+A final keyword are not modify the keyword
+link: https://www.javatpoint.com/final-keyword

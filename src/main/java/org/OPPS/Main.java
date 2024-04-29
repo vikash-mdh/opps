@@ -36,6 +36,11 @@ public class Main {
         Student random = new Student(vikash);
         System.out.println(vikash.name);
 
+        Student one  = new Student();
+        Student two = one;
+        one.name = "somthing somthing";
+        System.out.println(two.name);
+
 
     }
 }
