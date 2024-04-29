@@ -7,6 +7,17 @@
  what is doot operator use :-
 
  All class object in java must be allocated in dynamically memoey
-
-Student student  =  new Student();
+                    - this is the constructor-
+Student student  =  new Student(); this is object
 -- compile time --   -- run time allocate memory --
+
+what is constructor : -A constructor in Java is a special method that is used to initialize objects.
+The constructor is called when an object of a class is created.It can be used to set initial values for object attributes:
+
+constructor :- A construcotr is special type function that run you create an object and it allocate somr variable
+The constructor does not return any value
+
+
+-------------- This key word-----------
+This keyword in Java
+There can be a lot of usage of Java this keyword. In Java, this is a reference variable that refers to the current object.
