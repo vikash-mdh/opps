@@ -28,3 +28,6 @@ Student two = one;
 --- final kaeyword-----
 A final keyword are not modify the keyword
 link: https://www.javatpoint.com/final-keyword
+
+what is packages : - packages is just a folder
+what is packages :- A java package is a group of similar types of classes, interfaces and sub-packages.
