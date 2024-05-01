@@ -31,3 +31,38 @@ link: https://www.javatpoint.com/final-keyword
 
 what is packages : - packages is just a folder
 what is packages :- A java package is a group of similar types of classes, interfaces and sub-packages.
+
+
+----inheritsnce
+ link :- https://medium.com/edureka/inheritance-in-java-f638d3ed559e
+What is Inheritance?
+In Java, inheritance stands as a fundamental pillar of Object-Oriented Programming (OOP). It’s a mechanism through
+ which one class can inherit the attributes (fields and methods) of another class. In essence, inheritance in Java
+ revolves around creating new classes based on existing ones. When a class inherits from another class, it gains access
+ to the methods and fields of the parent class. Furthermore, it can introduce new fields and methods to enhance its own
+ functionality.
+  li
+
+
+Inheritance is an Object Oriented Programming (OOP) feature that allows the properties of an object to be used by
+ different objects.
+
+1 .A written class can be inherited by another class.
+2 .When this process is done, all properties of the base class are transferred to the new class.
+3 .Reusability of the written code is ensured.
+4 .A base class is the parent class of a derived class.
+5 .The parent class of derived class is called Base Class, and the inherited class is called the Derived Class.
+
+---extands child class to parrent class using extands key word;
+child class extands base class{
+int weight;
+}
+
+child  child = new child()
+child.l;
+child.w;
+child.h;
+
+
+
+
