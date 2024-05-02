@@ -64,5 +64,70 @@ child.w;
 child.h;
 
 
+-------what is inheritance------
+link:- https://medium.com/@navodapiumi691/what-is-inheritance-in-java-c436bd1ae834
+link:- https://www.w3schools.com/java/java_inheritance.asp
+what is inheritance :-In Java, it is possible to inherit attributes and methods from one class to another. We group the
+ "inheritance concept" into two categories:
+
+1. Single Inheritance :- one class extnads another class
+ code
+ class Parent {
+     // Parent class members
+ }
+
+ class Child extends Parent {
+     // Child class members
+ }
+
+2 multilevel inheritance:-
+In multilevel inheritance derived new class from sub class.
+
+vvi :_ Multiple inheritance is not support in java
+
+2 multilevel inheritance:-
+In multilevel inheritance derived new class from sub class.
+
+Syntax:
+
+class A{
+
+//methods and fields
+
+}
+
+class B extends A{
+
+//methods and fields
+
+}
+
+class C extends B{
+
+// methods and fields
+
+}
 
 
+3 Hierarchical inheritance:-
+When two or more class derived from base class then it is called helierarchi inheritance.
+
+Syntax
+
+class A{
+
+//methods and fields
+
+}
+
+class B extends A{
+
+//methods and fields
+
+}
+
+class C extends A{
+
+//methods and fields
+
+}
